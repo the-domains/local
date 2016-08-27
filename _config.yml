@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.113319
+color:
+  saturation: 0.5754748
+  lightness: 0.755541
+  brandStrength: 0.7814178
+  brandColors:
+    - '#E0E2DF'
+    - '#2C231A'
+    - '#AFB0AA'
+    - '#C58F69'
+    - '#975E40'
+  rhythmicContrast: 0.7744164
+name: Local
